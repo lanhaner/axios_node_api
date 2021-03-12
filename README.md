@@ -1,5 +1,5 @@
 # axios_node_api
-- 下载，如：D:>vue
+- 下载放到自己需要的位置，如：D:>vue
 
 - 解压到当前位置，如：D:>vue>axios_node_api-master
 
